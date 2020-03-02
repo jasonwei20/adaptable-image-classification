@@ -1,4 +1,4 @@
-# Readable and adaptable image classification with ResNet
+# Adaptable image classification with ResNet
 
 This code optimizes readability and adaptability to new experiments. 
 
