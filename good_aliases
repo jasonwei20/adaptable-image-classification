@@ -1,0 +1,9 @@
+export EDITOR=nano
+force_color_prompt=yes
+alias sls='screen -ls'
+alias sr='screen -r'
+alias sS='screen -S'
+alias sXS='screen -X -S'
+alias ssl='source activate ssl-benchmark'
+alias clr='clear'
+alias ls='ls -lt'
