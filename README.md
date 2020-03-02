@@ -2,11 +2,11 @@
 
 This code optimizes readability and adaptability to new experiments. 
 
-# Setup (to do)
+## Setup (to do)
 - Installations (follow FAIR self-supervised benchmark)
 - Conda environments
 
-# Usage
+## Usage
 ```sh
 CUDA_VISIBLE_DEVICES=0 python vanilla/53_vanilla_train_voc.py
 ```
